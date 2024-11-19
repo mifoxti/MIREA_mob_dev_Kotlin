@@ -73,7 +73,7 @@ fun downloadImagesLinks(onUrlEntered: (String) -> Unit) {
             ),
             modifier = Modifier.padding(8.dp)
         ) {
-            Text("Загрузить изображение")
+            Text("Загрузить изображение") 
         }
     }
 }
